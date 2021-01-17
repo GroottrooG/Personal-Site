@@ -88,6 +88,7 @@ a:hover{
 .my-desc{
     color: #40514E;
     width: 30%;
+    margin: 0 auto 0 auto;
 }
 
 .bottom-container{
@@ -129,6 +130,7 @@ hr{
     padding: 20px;
     color:#40514e;
     width: 30%;
+    margin: 0 auto 0 auto;
 }
 
 p{
